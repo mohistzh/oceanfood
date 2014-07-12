@@ -1,11 +1,13 @@
-OceanFood::Application.routes.draw do
-  resources :foods
+Apply::Application.routes.draw do
+  #resources :requests
+
+  resources :requests
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'foods#index'
+  root 'requests#index'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

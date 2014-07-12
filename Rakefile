@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-OceanFood::Application.load_tasks
+Apply::Application.load_tasks
