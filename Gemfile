@@ -98,7 +98,7 @@ gem 'therubyracer'
 #gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-bootstrap-rails.git', :branch => "bootstrap3"
 
 #gem 'sass-rails', '>= 3.2'
-gem 'bootstrap-sass', '~> 3.1.1'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'bootstrap-generators', '~> 3.1.1'
 
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
